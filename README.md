@@ -7,12 +7,13 @@
 <h1 align="center">Ubirajara Carratu (Bira)</h1>
 
 <p align="center">
-  <strong>SEO, GEO e AEO para SaaS B2B</strong><br>
-  Founder da Carratu Digital · Growth de Marketing e Vendas · Autor de <em>O Briefing da Vida</em>
+  <strong>IA aplicada a Growth B2B: funil, receita e visibilidade nas IAs</strong><br>
+  Founder da Carratu Digital · Carratu revenue growth consulting · Autor de <em>O Briefing da Vida</em>
 </p>
 
 <p align="center">
   <a href="https://www.carratu.com.br">Site</a> ·
+  <a href="https://consultoria.carratu.com.br">Consultoria</a> ·
   <a href="https://www.linkedin.com/in/carratu">LinkedIn</a> ·
   <a href="https://aeogeo.com.br">AEOGEO</a> ·
   <a href="https://ia.carratu.com.br">AI Studio</a>
@@ -23,7 +24,8 @@
   <img src="https://img.shields.io/badge/GEO-informational?style=flat-square&color=0A66C2">
   <img src="https://img.shields.io/badge/AEO-informational?style=flat-square&color=0A66C2">
   <img src="https://img.shields.io/badge/Growth%20B2B-informational?style=flat-square&color=16A34A">
-  <img src="https://img.shields.io/badge/AI%20Workflows-informational?style=flat-square&color=7C3AED">
+  <img src="https://img.shields.io/badge/RevOps-informational?style=flat-square&color=16A34A">
+  <img src="https://img.shields.io/badge/Claude%20Skills-informational?style=flat-square&color=7C3AED">
 </p>
 
 ---
@@ -32,15 +34,23 @@
 
 Sou o Bira, fundador da **Carratu Digital**, agência de marketing digital focada em SaaS B2B, em operação desde 2002. Trabalho há mais de 20 anos com automação, SEO, AEO, ABM, mídia paga e workflows com IA. Também toco a **Carratu Consultoria** (growth de receita) e sou cofundador da **Triall**, um marketplace que conecta corredores e assessorias.
 
-Meu foco hoje é **visibilidade em busca na era da IA**: não só ranquear no Google, mas ser a resposta que ChatGPT, Claude, Perplexity e Gemini entregam. É isso que chamo de GEO (Generative Engine Optimization) e AEO (Answer Engine Optimization).
+Meu foco hoje é **IA aplicada a growth**: usar a velocidade da IA com método de quem vive funil, receita e board há duas décadas. Isso vai do diagnóstico de funil à visibilidade nas respostas de ChatGPT, Claude, Perplexity e Gemini (GEO e AEO).
 
-Boa parte do que publico aqui são **ferramentas abertas e skills** que uso no dia a dia da agência e com clientes. A ideia é devolver para a comunidade o que funciona na prática.
+Conhecimento não se vende, se doa. Por isso publico aqui, abertas, as **skills que uso com clientes**: cada uma calcula tudo em script (nenhum número sai de "achismo" do modelo), segue uma metodologia documentada e entrega relatório pronto para a diretoria.
 
-### O que você encontra nos meus repositórios
+### Carratu Growth Kit
 
-- **Auditoria de visibilidade em busca** (SEO, GEO e AEO) como skill para o Claude.
-- **Diagnóstico de segurança** de ativos digitais, read-only por padrão, cobrindo AWS, Google Cloud, Cloudflare, Supabase, GitHub, Microsoft 365 e Linux.
-- Experimentos de **automação de conteúdo** e pipelines com a API do Claude.
+| Skill | Para quê |
+|---|---|
+| [Diagnóstico de funil](https://github.com/biracarratu/carratu-diagnostico-funil) | Onde o funil vaza e quanto do pipeline é real |
+| [AI Share of Voice](https://github.com/biracarratu/carratu-ai-share-of-voice) | Quanto a sua marca aparece e é recomendada nas IAs |
+| [ICP reverso](https://github.com/biracarratu/carratu-icp-reverso) | O cliente ideal real, a partir de quem de fato compra |
+| [ABM plays](https://github.com/biracarratu/carratu-abm-plays) | Contas em tiers, sinais de compra e plays por conta |
+| [Briefing com escuta ativa](https://github.com/biracarratu/carratu-briefing) | Perguntar antes de produzir, com régua de clareza |
+| [Relatório para o board](https://github.com/biracarratu/carratu-relatorio-board) | CAC, payback, LTV:CAC e NRR na língua do CFO |
+| [Diagnóstico SEO, GEO e AEO](https://github.com/biracarratu/carratu-diagnostico-seo-geo-aeo) | Visibilidade no Google e nas IAs |
+
+Também mantenho um **diagnóstico de segurança** de ativos digitais ([Security-Assessment](https://github.com/biracarratu/Security-Assessment)), read-only por padrão.
 
 ### Além do código
 
@@ -52,15 +62,11 @@ Escrevi **O Briefing da Vida** (também publicado em inglês como *The Life Brie
 
 I am Bira, founder of **Carratu Digital**, a B2B SaaS focused digital marketing agency running since 2002. For over 20 years I have worked with automation, SEO, AEO, ABM, paid media and AI powered workflows. I also run **Carratu Consultoria** (revenue growth) and co founded **Triall**, a runner and coach marketplace.
 
-My current focus is **search visibility in the AI era**: not just ranking on Google, but being the answer that ChatGPT, Claude, Perplexity and Gemini deliver. I call this GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization).
+My current focus is **AI applied to growth**: AI speed combined with two decades of funnel, revenue and board-room method, from funnel diagnostics to visibility in ChatGPT, Claude, Perplexity and Gemini answers (GEO and AEO).
 
-Most of what I publish here are **open tools and skills** I use daily at the agency and with clients, giving back to the community what works in practice.
+Knowledge is not sold, it is shared. So I publish here, in the open, the **skills I use with clients**. Every number is computed by scripts, every method is documented, and each one delivers a board-ready report. All of them work in English.
 
-### What you will find in my repositories
-
-- **Search visibility audit** (SEO, GEO and AEO) as a skill for Claude.
-- **Security diagnostic** for digital assets, read only by default, covering AWS, Google Cloud, Cloudflare, Supabase, GitHub, Microsoft 365 and Linux.
-- Experiments in **content automation** and pipelines built on the Claude API.
+**Carratu Growth Kit**: funnel diagnostic, AI share of voice, reverse ICP, ABM plays, active-listening brief, board report and SEO/GEO/AEO audit (links in the table above).
 
 ### Beyond the code
 
@@ -73,6 +79,7 @@ I wrote **The Life Briefing** (originally published in Portuguese as *O Briefing
 <table align="center">
   <tr>
     <td align="center"><strong>Carratu Digital</strong><br><sub>Agência SEO/GEO/AEO · B2B SaaS</sub></td>
+    <td align="center"><strong>Carratu Consultoria</strong><br><sub>Revenue growth consulting</sub></td>
     <td align="center"><strong>AEOGEO</strong><br><sub>Conteúdo e método de visibilidade em IA</sub></td>
     <td align="center"><strong>Triall</strong><br><sub>Marketplace corredor + assessoria</sub></td>
   </tr>
